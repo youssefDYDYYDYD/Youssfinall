@@ -32,12 +32,12 @@ local Library = {
 
 	FontColor = Color3.fromRGB(135,206,250);
     FontColor2 = Color3.fromRGB(135,206,250);
-    MainColor = Color3.fromRGB(211,211,211);
-    MainColor2 = Color3.fromRGB(211,211,211);
+    MainColor = Color3.fromRGB(135,206,250);
+    MainColor2 = Color3.fromRGB(135,206,250);
     BackgroundColor = Color3.fromRGB(211,211,211);
-    AccentColor = Color3.fromRGB(255,255,255);
+    AccentColor = Color3.fromRGB(211,211,211);
     OutlineColor = Color3.fromRGB(135,206,250);
-    RiskColor = Color3.fromRGB(211,211,211),
+    RiskColor = Color3.fromRGB(135,206,250),
 
 	Black = Color3.new(135,206,250);
 	Font = Enum.Font.Code,
