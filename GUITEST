@@ -39,7 +39,7 @@ local Library = {
     OutlineColor = Color3.fromRGB(255,255,255);
     RiskColor = Color3.fromRGB(255,255,255),
 
-	Black = Color3.new(135,206,250);
+	Black = Color3.new(255,255,255);
 	Font = Enum.Font.Code,
 
 	OpenedFrames = {};
